@@ -1,0 +1,24 @@
+header {
+}
+
+.menu div {
+    overflow: hidden;
+  }
+  
+  .menu div {
+    float: left;
+    color: white;
+    padding: 20px 75px;
+    font-size: 25px;
+  }
+  
+.menu menu{
+    overflow: hidden;
+  }
+  
+  .menu menu{
+    float: right;
+    color: white;  
+    font-size: 20px;
+  }
+  
