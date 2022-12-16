@@ -1,25 +1,26 @@
-header {
+
+.h h1 {
+  overflow: hidden;
 }
 
-.menu div {
-    overflow: hidden;
-  }
-  
-  .menu div {
-    float: left;
-    color: white;
-    padding: 20px 75px;
-    font-size: 25px;
-  }
-  
-.menu menu{
-    overflow: hidden;
-  }
-  
-  .menu menu{
-    float: right;
-    color: white;  
-    font-size: 20px;
-  }
-  
-  
+.h h1 {
+  float: left;
+  color: white;
+  padding: 60px 60px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.h h2 {
+  float: right;
+  color: white;
+  padding: 60px 90px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+}
